@@ -1,2 +1,2 @@
 # cotex-releases
-Cotex 安装包
+Release packages for Cotex application
